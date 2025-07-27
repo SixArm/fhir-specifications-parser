@@ -1,0 +1,11 @@
+{
+    "resourceType": "StructureDefinition",
+    "id": "Narrative",
+    "snapshot": {
+        "element": [
+            {
+                "id": "code"
+            }
+        ]
+    }
+}

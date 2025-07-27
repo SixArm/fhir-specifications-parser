@@ -1,0 +1,4 @@
+{
+    "strength": "required",
+    "valueSet": "http://hl7.org/fhir/us/core/ValueSet/birthsex"
+}

@@ -1,0 +1,7 @@
+{
+    "fullUrl" : "http://hl7.org/fhir/StructureDefinition/Narrative",
+    "resource": {
+        "resourceType": "StructureDefinition",
+        "id" : "Narrative"
+    }
+}

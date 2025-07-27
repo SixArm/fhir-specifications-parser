@@ -1,0 +1,27 @@
+{
+    "resourceType": "Bundle",
+    "id" : "types",
+    "type" : "collection",
+    "entry": [{
+        "fullUrl" : "http://hl7.org/fhir/StructureDefinition/Element",
+        "resource": {
+            "resourceType": "StructureDefinition",
+            "id" : "Narrative",
+            "url" : "http://hl7.org/fhir/StructureDefinition/Narrative",
+            "version" : "5.0.0",
+            "name" : "Narrative",
+            "status" : "active",
+            "experimental" : false,
+            "date" : "2023-03-26T15:21:02+11:00",
+            "publisher" : "HL7 FHIR Standard",
+            "description" : "Narrative Type: A human-readable summary of the resource…",
+            "fhirVersion" : "5.0.0",
+            "kind" : "complex-type",
+            "abstract" : true,
+            "type" : "Narrative",
+            "baseDefinition" : "http://hl7.org/fhir/StructureDefinition/DataType",
+            "derivation" : "specialization"
+        }
+    }]
+}
+
