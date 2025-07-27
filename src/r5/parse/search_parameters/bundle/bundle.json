@@ -1,0 +1,9 @@
+{
+  "resourceType" : "Bundle",
+  "id" : "searchParams",
+  "meta" : {
+    "lastUpdated": ""
+  },
+  "type" : "collection",
+  "entry" : []
+}

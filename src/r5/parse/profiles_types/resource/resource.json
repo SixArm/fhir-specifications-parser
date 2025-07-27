@@ -1,0 +1,16 @@
+{
+    "resourceType": "StructureDefinition",
+    "id": "Narrative",
+    "url": "http://hl7.org/fhir/StructureDefinition/Narrative",
+    "version": "5.0.0",
+    "name": "Narrative",
+    "status": "active",
+    "snapshot": {
+        "element": [
+            {
+                "id": "code",
+                "path": ""
+            }
+        ]
+    }
+}

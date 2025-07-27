@@ -1,0 +1,9 @@
+{
+    "resourceType": "Bundle",
+    "id" : "types",
+    "meta" : {
+    "lastUpdated": ""
+  },
+    "type" : "collection",
+    "entry": []
+}
